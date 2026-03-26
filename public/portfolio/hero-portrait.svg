@@ -1,0 +1,32 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" rx="64" fill="url(#bg)"/>
+  <circle cx="908" cy="234" r="178" fill="url(#glow)" fill-opacity="0.55"/>
+  <circle cx="304" cy="1098" r="224" fill="#B9D5FF" fill-opacity="0.22"/>
+  <path d="M285 1069C285 840.906 469.906 656 698 656V656C926.094 656 1111 840.906 1111 1069V1240H285V1069Z" fill="#17202D"/>
+  <path d="M456 632C456 493.965 567.965 382 706 382V382C844.035 382 956 493.965 956 632V753C956 891.035 844.035 1003 706 1003V1003C567.965 1003 456 891.035 456 753V632Z" fill="#E8BE9C"/>
+  <path d="M511 544C511 408.138 621.138 298 757 298V298C892.862 298 1003 408.138 1003 544V662H511V544Z" fill="#1B2534"/>
+  <path d="M484 550C484 424.073 586.073 322 712 322H766C891.927 322 994 424.073 994 550V569H484V550Z" fill="url(#hair)"/>
+  <path d="M430 1202C430 1017.54 579.542 868 764 868V868C948.458 868 1098 1017.54 1098 1202V1240H430V1202Z" fill="url(#coat)"/>
+  <path d="M547 853C547 786.174 601.174 732 668 732H756C822.826 732 877 786.174 877 853V901C877 967.826 822.826 1022 756 1022H668C601.174 1022 547 967.826 547 901V853Z" fill="#F4D2B7"/>
+  <path d="M307 162C380.02 107.837 465.996 80.7566 566.927 80.7566C697.193 80.7566 814.307 129.728 918.269 227.67" stroke="white" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M140 1260C250.596 1167.95 386.707 1121.93 548.333 1121.93C710.641 1121.93 851.867 1171.86 972 1271.72" stroke="#9BBEFF" stroke-opacity="0.55" stroke-width="2"/>
+  <defs>
+    <linearGradient id="bg" x1="91" y1="56" x2="1058" y2="1314" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF4FF"/>
+      <stop offset="0.48" stop-color="#F7F9FC"/>
+      <stop offset="1" stop-color="#E8EEF7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(908 234) rotate(90) scale(178)">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#B7D2FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="739" y1="322" x2="739" y2="658" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#263246"/>
+      <stop offset="1" stop-color="#101723"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="764" y1="868" x2="764" y2="1240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#243246"/>
+      <stop offset="1" stop-color="#121926"/>
+    </linearGradient>
+  </defs>
+</svg>
