@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "xankiiza",
   description:
-    "A premium one-page personal portfolio built with Next.js, refined typography, layered imagery, and smooth motion.",
+    "Hi, I'm Kiiza. An ordinary guy, who likes cool tech.",
 };
 
 export default function RootLayout({
